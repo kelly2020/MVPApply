@@ -27,7 +27,6 @@ public class NewsDetailActivity extends SwipeBackActivity {
     Toolbar toolbar;
     private SwipeBackLayout mSwipeBackLayout;
 
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
