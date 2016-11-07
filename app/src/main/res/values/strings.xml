@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MVPApply</string>
+
+
+
+    <array name="photos">
+        <item >http://p4.qhimg.com/t011a1440792f3a44b1.jpg</item>
+        <item >http://c16.eoemarket.net/app0/786/786163/screen/4307370.jpg</item>
+        <item >http://d.hiphotos.bdimg.com/wisegame/pic/item/697b02087bf40ad171005c20562c11dfa8ecce09.jpg</item>
+        <item >http://a.hiphotos.bdimg.com/wisegame/pic/item/9f039245d688d43fb2159c537d1ed21b0ff43bd6.jpg</item>
+        <item >http://cdn2.image.apk.gfan.com/asdf/PImages/2012/9/25/365870_205e787a7-6f12-4c2b-a3ee-9d65e7f3044b.jpg</item>
+        <item >http://p4.qhimg.com/t01ed8a9457047365e0.jpg</item>
+        <item >http://www.qqjia.com/z/11/tu13233_13.jpg</item>
+        <item >http://hiphotos.baidu.com/wisegame/pic/item/f3529822720e0cf37535406f0b46f21fbf09aa60.jpg</item>
+        <item >http://hiphotos.baidu.com/wisegame/pic/item/d1fb43166d224f4a358084da09f790529922d1da.jpg</item>
+        <item >http://hiphotos.baidu.com/wisegame/pic/item/ce6eddc451da81cba5d06d415266d0160924310c.jpg</item>
+        <item >http://g.hiphotos.bdimg.com/wisegame/pic/item/fe16fdfaaf51f3de83477b4495eef01f3a29791d.jpg</item>
+        <item >http://c11.eoemarket.com/app0/374/374492/screen/1997262.jpg</item>
+        <item >http://hiphotos.baidu.com/wisegame/pic/item/29ed2e738bd4b31c0d2e873387d6277f9e2ff82c.jpg</item>
+        <item >http://hiphotos.baidu.com/wisegame/pic/item/29ed2e738bd4b31c0d2e873387d6277f9e2ff82c.jpg</item>
+        <item >http://www.qqjia.com/z/11/tu13233_8.jpg</item>
+        <item >http://c13.eoemarket.net/app0/751/751487/screen/3833089.jpg</item>
+    </array>
+</resources>
